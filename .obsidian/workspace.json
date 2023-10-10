@@ -14,6 +14,18 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "66d7bcf076655597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "August 14.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -120,13 +132,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "a427c0c0d7d64e59",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,5 +159,8 @@
     }
   },
   "active": "86dd44802c6c4c99",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "August 14.md",
+    "MLOPS"
+  ]
 }
