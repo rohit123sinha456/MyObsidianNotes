@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "August 14.md",
+                "file": "MLOPS/August 14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b300832ee375333a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper Writeups (Check for feasibility).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "August 14.md",
+                "file": "MLOPS/August 14.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "August 14.md",
+                "file": "Paper Writeups (Check for feasibility).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "August 14.md",
+                "file": "Paper Writeups (Check for feasibility).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "August 14.md"
+                "file": "Paper Writeups (Check for feasibility).md"
               }
             }
           },
@@ -154,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,9 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86dd44802c6c4c99",
+  "active": "b300832ee375333a",
   "lastOpenFiles": [
-    "August 14.md",
+    "MLOPS/August 14.md",
+    "Paper Writeups (Check for feasibility).md",
     "MLOPS"
   ]
 }
