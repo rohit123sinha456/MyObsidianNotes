@@ -13,4 +13,4 @@ In many industry different kind of instructions needs to be displayed in differe
 Decomposing and training SVM in a distributed environment using spark on over 11.25 million data points with close to 88% accuracy
 
 ## System Design for multiple Real Time Streaming Protocols consumption for safety helmet violation detection in industry setting.(One extra author)
-I don't know if we can get any paper out of it but it just seem a quirky idea to put in. The method is take multple streams of video from CCTV of any industry floor and apply simple helmet detection method and tracking, but our contribution os the design and implementation of the consumption of multiple CCTV streams and doing those detections in real time
+I don't know if we can get any paper out of it but it just seem a quirky idea to put in. The method is take multiple streams of video from CCTV of any industry floor and apply simple helmet detection method and tracking, but our contribution os the design and implementation of the consumption of multiple CCTV streams and doing those detections in real time
