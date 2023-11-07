@@ -7,10 +7,10 @@ Using GANs to compress Images or vide streams. The method is, train a GAN, on a 
 ## A network scalable media application system design for real time information sharing(One extra author)
 
 In many industry different kind of instructions needs to be displayed in different stations or sections of the industry. To digitise the process, we had to design the system. We build up the communication fabric and light weight protocol, so that the system can run on embedded devices like LCD/LED screens
-
+- survey - cumulative of the methods ( pub/sub and display stuff)
 ## DSVM :- Distributed SVM for big data(One extra author)
 
 Decomposing and training SVM in a distributed environment using spark on over 11.25 million data points with close to 88% accuracy
-
+- survey work and compare
 ## System Design for multiple Real Time Streaming Protocols consumption for safety helmet violation detection in industry setting.(One extra author)
 I don't know if we can get any paper out of it but it just seem a quirky idea to put in. The method is take multiple streams of video from CCTV of any industry floor and apply simple helmet detection method and tracking, but our contribution os the design and implementation of the consumption of multiple CCTV streams and doing those detections in real time
